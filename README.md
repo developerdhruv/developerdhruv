@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advance Javascript**
 
-- 💬 Ask me about **Web development , MERN**
+- 💬 Ask me about **AI, ML/DL, Web development , MERN**
 
 - 📫 How to reach me **dhruvkumar9115@gmail.com**
 
