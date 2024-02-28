@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvku76430168" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvku76430168?logo=twitter&style=for-the-badge" alt="dhruvku76430168" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Javascript**
+- 🌱 I’m currently Building in **WEB3**
 
-- 💬 Ask me about **AI, ML/DL, Web development , MERN**
+- 💬 Ask me about **AI, ML/DL, Web development **
 
 - 📫 How to reach me **dhruvkumar9115@gmail.com**
 
