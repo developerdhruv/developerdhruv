@@ -1,4 +1,4 @@
-[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)
+
 <h1 align="center">Hi 👋, I'm Dhruv Kumar</h1>
 <h3 align="center">A passionate FULL stack Developer & AI Engineer</h3>
 
