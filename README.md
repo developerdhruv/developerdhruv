@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv Kumar</h1>
 <h3 align="center">A passionate FULL stack Developer & AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerdhruv&label=Profile%20views&color=0e75b6&style=flat" alt="developerdhruv" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/dhruvku76430168" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvku76430168?logo=twitter&style=for-the-badge" alt="dhruvku76430168" /></a> </p>
 
-- 🌱 I’m currently Building in **WEB3**
+- 🌱 I’m currently Building in **AI**
 
 - 💬 Ask me about **AI, ML/DL, Web development **
 
